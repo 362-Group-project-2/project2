@@ -100,18 +100,8 @@ nav ul li a {
   margin: 0 auto;
   border-style: hidden;
   vertical-align: middle;
+ }
 }
 
-}
 
-
-
-@media (max-width: 600px){
-  
-  
-  #content {
-    width: 100%
-  }
-
-}
 
