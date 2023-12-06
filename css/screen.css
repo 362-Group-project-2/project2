@@ -81,7 +81,6 @@ nav ul li a {
 
 @media (min-width: 601px) {
    div {
-		   font-size: 10px;
      display: flex;
      flex-direction: column;
   }
